@@ -1,36 +1,21 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+# 💫 About Me:
+I'm John. 👋<br>Currently in a journey to become a web developer  🛣️<br>Really passionate about technologies. 👨‍💻<br>Love to add more, languages, frameworks and tech in this profile 💻
 
-<p align="center">
-    <b>Welcome to my page!</b><br><br>
-    <i>
-        I'm John.<br>
-        Currently in a journey to become a web developer.<br>
-        Really passionate about technologies.<br>
-		Love to add more, languages, frameworks and tech in this profile.<br>
-    </i><br>
-</p>
 
-### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jdungao15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jdungao15&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdungao15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Technologies & Frameworks
-![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
+### 😂 Random Dev Meme
+<img src="https://www.pangea.ai/media/shqpaqrw/googledocimage180.png" />
 
-<!--
+---
+[![](https://visitcount.itsvg.in/api?id=jdungao15&icon=0&color=1)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
