@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/uncrownedKing"><img src="https://api.daily.dev/devcards/dc477eb946804db58d754a6bb4dd1263.png?r=37a" width="400" alt="John Miguel Dungao's Dev Card"/></a>
+
+
 # 💫 About Me:
 I'm John. 👋<br>Currently in a journey to become a web developer  🛣️<br>Really passionate about technologies. 👨‍💻<br>Love to add more, languages, frameworks and tech in this profile 💻
 
