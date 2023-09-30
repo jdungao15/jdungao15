@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jdungao15/jdungao15/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jdungao15/jdungao15/blob/master/devcard.svg" width="400" alt="John Dungao's Dev Card"/></a>
 
 
 # 💫 About Me:
