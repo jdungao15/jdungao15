@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jdungao15/jdungao15/blob/main/devcard.svg" width="400" alt="John Dungao's Dev Card"/></a>
+<a href="https://app.daily.dev/uncrownedking"><img src="https://api.daily.dev/devcards/v2/jjcs2LbBsNY9NIC6oKkxI.png?r=9eq&type=wide" width="652" alt="John Miguel Dungao's Dev Card"/></a>
 
 
 # 💫 About Me:
