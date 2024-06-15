@@ -2,7 +2,9 @@
 
 
 # 💫 About Me:
-I'm John. 👋<br>Currently in a journey to become a web developer  🛣️<br>Really passionate about technologies. 👨‍💻<br>Love to add more, languages, frameworks and tech in this profile 💻
+👋 Hi there! I'm John Miguel Dungao, a passionate Frontend Developer based in New Milford, NJ. With a solid foundation in Fullstack development and a focus on modern technologies, I bring a dynamic approach to crafting engaging user experiences.
+
+🚀 Technical Skills: Proficient in JavaScript, HTML5, CSS, React, Node.js, Git, RESTful APIs, SQL, PostgreSQL. Knowledgeable in Python, Tailwind, Express, Zustand, JWT, Bcrypt, TypeScript, Next.js.
 
 
 # 💻 Tech Stack:
